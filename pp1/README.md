@@ -1,2 +1,4 @@
-Práctica programada 1
+# Práctica programada 1
+
+Mayquelin
 
