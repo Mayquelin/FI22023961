@@ -1,7 +1,7 @@
 Práctica programada 2
 
  Número de carné
- 22023961
+ FI22023961
 
 IDE utilizado
 NetBeans
