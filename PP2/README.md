@@ -1,20 +1,20 @@
-#Práctica programada 2
+Práctica programada 2
 
-## Número de carné
-######22023961
+ Número de carné
+ 22023961
 
-##IDE utilizado
-######NetBeans
+IDE utilizado
+NetBeans
 
-## Web
+ Web
 <https://stackoverflow.com/questions/44307564/reversing-a-stack-in-java>
 <openai.com/es-419/>
 
-####¿Cree que existe otra forma de efectuar la inversión del contenido de un archivo sin necesidad de usar una pila? Si sí, indique cómo (sin necesidad de código).
+¿Cree que existe otra forma de efectuar la inversión del contenido de un archivo sin necesidad de usar una pila? Si sí, indique cómo (sin necesidad de código).
 .Abriendo el archivo de letura binaria o aleatoria.
 .Escribir cada carácter  en un nuevo archivo, a medida  lo vas leyendo hacia atrás.
  
- ####¿En qué ejemplo de la vida real (no informática) se puede ver reflejado el uso de una pila?
+ ¿En qué ejemplo de la vida real (no informática) se puede ver reflejado el uso de una pila?
  .Una pila de platos en la cocina.
  
  .Montón de libros en un escritorio
@@ -23,7 +23,8 @@
  .Apilado de cajas o contenedores
  Pasa igual que los libros
  
- #Código
+ 
+ Código
  
  package com.mycompany.revert;
 
